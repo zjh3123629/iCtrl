@@ -1,0 +1,960 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\STM32-DEMO.uvproj
+Project File Date:  11/13/2014
+
+<h2>Output:</h2>
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: No matching core found.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+***JLink Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.
+CPU not halted
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: No matching core found.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+***JLink Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.
+CPU not halted
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: No matching core found.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+***JLink Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.
+CPU not halted
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: No matching core found.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+***JLink Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.
+CPU not halted
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: No matching core found.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+***JLink Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.
+CPU not halted
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: No matching core found.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+***JLink Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.
+CPU not halted
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: No matching core found.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+***JLink Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.
+CPU not halted
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: No matching core found.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+***JLink Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.
+CPU not halted
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: No matching core found.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+* JLink Info: Core did not halt after reset, trying to disable WDT.
+**JLink Warning: RESET (pin 15) high, but should be low. Please check target hardware.
+**JLink Warning: CPU did not halt after reset.
+**JLink Warning: Could not set S_RESET_ST
+***JLink Error: Supply voltage too low (1 Volt is required, Measured: 0.0 Volt).
+Please check target power.
+CPU not halted
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+**JLink Warning: No matching core found.
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+* JLink Info: CPU core locked up
+* JLink Info: CPU halted
+* JLink Info: Core is locked-up, trying to disable WDT.
+* JLink Info: CPU core locked up
+* JLink Info: CPU halted
+* JLink Info: Core is locked-up, trying to disable WDT.
+* JLink Info: CPU core locked up
+* JLink Info: CPU halted
+* JLink Info: CPU core locked up
+* JLink Info: CPU halted
+**JLink Warning: S_RESET_ST not cleared
+* JLink Info: SYSRESETREQ has confused core. Trying to reconnect and use VECTRESET.
+**JLink Warning: Failed to reset CPU. VECTRESET has confused core.
+* JLink Info: CPU core locked up
+* JLink Info: CPU halted
+* JLink Info: Core is locked-up, trying to disable WDT.
+* JLink Info: CPU core locked up
+* JLink Info: CPU halted
+* JLink Info: Core is locked-up, trying to disable WDT.
+* JLink Info: CPU core locked up
+* JLink Info: CPU halted
+* JLink Info: CPU core locked up
+* JLink Info: CPU halted
+**JLink Warning: S_RESET_ST not cleared
+***JLink Error: Parity error (Data = 0xFFFFFFFF, ReceivedParity = 1)
+***JLink Error: Could not start CPU core. (ErrorCode: -1)
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.215V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.222V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.241V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.287V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Load "..\\Output\\STM32-DEMO.AXF" 
+Set JLink Project File to "E:\售后资料\Air Nano迷你四轴资料包\源程序11.13更新\iCtrl 遥控器程序\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Nov 14 2012 22:34:52
+Hardware: V8.00
+S/N : 99999994 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Include "E:\\售后资料\\Air Nano迷你四轴资料包\\源程序11.13更新\\iCtrl 遥控器程序\\USER\\JLinkSettings.ini" 
+[BREAKPOINTS]
+^
+*** error 10: Syntax error
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
